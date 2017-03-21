@@ -1,0 +1,12 @@
+{
+	"name": "nw-saveas",
+	"version": "1.0.0",
+  	"description": "user-select save file for node-webkit",
+	"author": "liaozhongwu <liaozhongwu95@163.com>",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/liaozhongwu/nw-saveas.git"
+	},
+	"lisence": "mit",
+	"main": "index.js",
+}
